@@ -1,0 +1,12 @@
+epoch,train_acc,test_acc,fname
+102,1.0,0.891,cifar10_resnet18_baseline_new.csv
+195,0.99172,0.9708,cifar10_wideresnet_cutout.csv
+193,0.99998,0.9539,cifar10_resnet18_baseline.csv
+182,0.99148,0.9603,cifar10_resnet18_cutout_new.csv
+196,89.484,97.23,cifar10_wideresnet_saliencymix.csv
+197,0.99996,0.9546,cifar10_resnet50_baseline.csv
+166,89.862,96.03,cifar10_resnet18_saliencymix.csv
+197,0.9916,96.08,cifar10_resnet18_cutout.csv
+195,0.99988,0.9628,cifar10_wideresnet_baseline.csv
+185,0.9894,0.9612,cifar10_resnet50_cutout.csv
+181,89.214,96.13000000000001,cifar10_resnet50_saliencymix.csv
